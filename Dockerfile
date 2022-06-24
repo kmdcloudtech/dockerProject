@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER kmdcloud@gmail.com
+MAINTAINER kmdcloud20@gmail.com
 RUN yum -y install httpd \
      zip \
      unzip
